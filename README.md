@@ -2,6 +2,10 @@
 
 Bot otomatis untuk scraping dan submit post Twitter/X ke Membit AI menggunakan Puppeteer.
 
+📸 Bot in Action
+![image](https://github.com/user-attachments/assets/eaa221ba-b186-479b-acde-39884175f7ee)
+
+
 ## Fitur
 
 - 🤖 Auto scraping post dari timeline Twitter/X
