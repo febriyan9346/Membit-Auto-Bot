@@ -194,14 +194,6 @@ Format: `[HH:mm:ss WIB] pesan`
 
 Pull requests are welcome! Untuk perubahan besar, buka issue terlebih dahulu.
 
-## License
-
-ISC
-
-## Author
-
-Yuurisandesu
-
 ## Disclaimer
 
 Bot ini dibuat untuk tujuan edukasi. Gunakan dengan bijak dan patuhi Terms of Service Twitter/X dan Membit AI. Author tidak bertanggung jawab atas penyalahgunaan bot ini.
